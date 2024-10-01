@@ -1,10 +1,9 @@
-## Hi there 👋
+# About me
+
+My ultimate life goal is to be a designer. This entails identifying problems and requirements, while concentrating on my existing knowledge, resources, and capabilities to effectively address those challenges.
+I'm still exploring how I can contribute to the world, and I'm always open to new ideas and experiences.
 
 <!--
-**convallari/convallari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
