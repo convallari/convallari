@@ -1,8 +1,10 @@
 # About me
 
-My ultimate life goal is to be a designer of the real world around me. In this endeavor, it’s crucial to identify problems and requirements while focusing on my existing knowledge, resources, and capabilities to creatively address those challenges.
+My ultimate life goal is to be a designer of the real world around me. 
+In this endeavor, it’s crucial to identify problems and requirements while focusing on my existing knowledge, resources, and capabilities to creatively address those challenges.
 I'm still exploring how I can contribute to the world and remain open to new ideas and experiences.
-- Surround yourself with people you like, acquire valuable knowledge and techniques, and engage in meaningful activities. Keep learing and practicing.
+Surround yourself with people you like, acquire valuable knowledge and techniques, and engage in meaningful activities.
+Keep learing and practicing.
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
